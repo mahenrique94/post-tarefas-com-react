@@ -5,4 +5,4 @@ Exemplo de como importar criar um componente de To-DO List com React.
 
 Visualizar primeiro *post*: [Listando tarefas com React](http://blog.matheuscastiglioni.com.br/listando-tarefas-com-react)
 
-Visualizar segundo *post*: [Utilizando state e props do React]()
+Visualizar segundo *post*: [Mantendo estados de componentes no React com state]()
